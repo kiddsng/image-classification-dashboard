@@ -1,0 +1,7 @@
+dash # pip install dash
+dash-bootstrap-components # pip install dash-bootstrap-components
+pandas # pip install pandas
+torch # pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+notebook # pip install notebook
+matplotlib # pip install matplotlib
+scipy # python -m pip install scipy
