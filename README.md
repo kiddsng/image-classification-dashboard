@@ -37,7 +37,7 @@ The full documentation can be found here (i.e., not out yet).
 1. Clone the project repository
 2. Create a Python virtual environment and install the necessary modules based on the requirement.txt file
 3. Create an empty folder named "data"
-3. Run the python app.py command
+4. Run the python app.py command
 
 ## References
 
